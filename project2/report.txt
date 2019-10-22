@@ -1,0 +1,39 @@
+1. Hours to complete the project: 12 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Deque): First I had a difficult time understanding the difference between Qeque and Stack,
+                      but after I attended the SI section, the SI go over the problem by showing
+                      a graphical representation. And I reviewed the class slides was helpful. 
+                      at least to understand some of the implementations that are used in the project. 
+                      Then after I followed the instructional comments & hints that are given on 
+                      the checklist page to implement variables and create objects, and perform 
+                      tasks in each given methods.
+
+   Problem 2 (Random Queue): Having background on the exercises and the first project gave me confidence about
+                            Queues in general, this problem just asking to utilize random queues, so it was
+                            not that challenging if you understand the concepts from the previous project. One
+                            error that I was kept getting which was about the adjustment of the array index, 
+                            which I kept getting Index_Out_of_Bound error. Later on, I figure out when i go to
+                            the next list,I had to update the current list.
+
+   Problem 3 (Subset): This problem was fun and straight forward. Everything needs to know given on 
+                       the checklist of the project hint section which means there are no abstract ideas. 
+                       Since I became more familiar with enqueue and dequeue in the Queue list object, 
+                       I was able to understand and solve this problem. 
+   
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   Fatemeh Afrasiabi      SI         Understanding the general consept about
+                                     the projects.
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...
