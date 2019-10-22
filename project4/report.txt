@@ -1,0 +1,39 @@
+1. Hours to complete the project: 13 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Board Data Type): I got so many errors especially on computing the 8 puzzles using A* algorism, 
+                                and the hardest part of problem is figuring out how to re-arranging the numbers 
+                                in the blocks and knowing the difference between hamming and manhattan in 
+                                the problem, but after I saw a youtube tutorial by Prof. Swami Iyer, and 
+                                attending the SI section I got the visual representation of the project, 
+                                so it makes easier and I was able to solve all the errors that I got from 
+                                the program. 
+
+   Problem 2 (Solver Data Type): I was encountering some errors in the solver method, but they were not that much 
+                                 a big deal, it was syntax errors which I was forgetting how to implement correctly   
+                                 some objects in the problem. In general, I find problem 2 eaiser than problem 1
+                                because the details and directions to solve the problem was given in the project
+                                 pdf file and checklist, and also attending the SI helps too.
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+ Swami Iyner           Prof.       Watched youtube videos.
+
+Fatemeh Afrasiabi       SI         Go over the problems one by one
+                                   and gave a visual representation to show how A* algorism works
+                                   by using tables with numbers.
+
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   One of the challenging problems in this class so far. It was fun! 
+   I enjoyed when I realized that it can be done a lot with just Arrays and 
+   For loops. it is actually like solving a real puzzle.
