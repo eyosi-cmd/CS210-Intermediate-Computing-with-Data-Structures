@@ -1,0 +1,42 @@
+1. Hours to complete the project: 10 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Autocomplete Term): I did the exercises first so it was good practice to understand 
+                                and work on the project, pretty much they have the same concept 
+                                which is focusing on datatypes and Comparator class and CompareTo method. 
+                                However, I had a difficult time on Helper reverse_weight comparator 
+                                because I did not know that I have to implement a compare method with 
+                                local Term variables v, and w, after reading the direction and hints 
+                                for the project, it gave a background to work on the project.
+ 
+
+
+   Problem 2 (Binary Search Deluxe): This one is very interseting and challenging problems, first I did not
+                                    understand whats binary search before the lecture given the class. After
+                                    the instructer and SI go over the consept for the bineary search Algorithm
+                                    I could able to solve the problem. It is also very similar to merge sort too.
+                                    I was confused with that because for both of them you to took the half and
+                                    compare to the low and high values in the object but the only difrence with
+                                    merge sort is it does not involves sorting.
+
+  Problem 3 (Autocomplete): This problem is very challenging compared to the others since it co-dependent with    
+                             binary search deluxe and it involves sorting method. The SI gave us an example of 
+                            a list of strings to understand this problem, that gave me a better picture of how
+                             problem works and how it uses Binary Search Deluxe to find the matches. 
+   
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+ Fatemeh Afrasiabi       SI         Go over the problems, explains the expectations
+                                    for the problems and elaborate on what is Binary Search. 
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...
