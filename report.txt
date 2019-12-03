@@ -1,0 +1,38 @@
+1. Hours to complete the project: 10 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Brute-force Implementation): I encountered several errors while I was doing this problem, especially 
+                                          on the part that requires to find the nearest point on the method overloads,
+                                          once I see the notes and the checklist how to implement and return the 
+                                          point on the nearst2D iterable obj, I understood why i was getting those
+                                          errors, then I solve them after different trails. The other thing is the TA go over 
+                                          the problems by showing a graphical example so that makes it easier to understand
+                                          the purpose of the project. 
+
+   Problem 2 (2d-tree Implementation): This project is very challenging, I was having a hard time even understanding the concepts
+                                       change it into codes, so I have to watch some of the youtube tutorials that has provided 
+                                       by the instructor and I attended two of the TA section that is given to cover the problems.
+                                       The TA showed the difference between the brute-force project and 2d-tree implementation.
+                                       She showed us how to dissect the rectangles and deal with different coordinates and points using 
+                                        roots and nodes in BTS.
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+Fatemeh Afrasiabi       SI         Go over the problems by going in detials
+                                   on the abstract consepts of the project.
+
+ Swami Iyner           Prof.       Watched the youtube on the Kd-trees projects.
+
+
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...
